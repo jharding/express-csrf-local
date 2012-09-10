@@ -1,2 +1,2 @@
-express-local-csrf
+express-csrf-local
 ------------------
