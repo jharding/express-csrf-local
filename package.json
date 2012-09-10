@@ -1,0 +1,35 @@
+{
+  "name": "express-csrf-local",
+  "description": "Express middleware for putting csrf token in locals object.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jharding/express-csrf-local",
+  "author": {
+    "name": "Jake Harding",
+    "email": "jacob.s.harding@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jharding/express-csrf-local.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jharding/express-csrf-local/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jharding/express-csrf-local/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "devDependencies": {
+    "express": "*"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "csrf"
+  ]
+}
