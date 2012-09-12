@@ -25,7 +25,11 @@
     "node": ">=0.6.0"
   },
   "devDependencies": {
-    "express": "*"
+    "connect": "~2.4.5",
+    "nodeunit": "~0.7.4"
+  },
+  "scripts": {
+    "test": "./node_modules/nodeunit/bin/nodeunit test/test_express_csrf_local.js"
   },
   "keywords": [
     "express",
