@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jharding/express-csrf-local.png)](http://travis-ci.org/jharding/express-csrf-local)
 express-csrf-local
 ------------------
 
